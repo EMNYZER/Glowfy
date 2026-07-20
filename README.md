@@ -1,4 +1,4 @@
-<img src="demo.png" alt="Glowfy">
+<img src="demosias.png" alt="Glowfy">
 
 # Glowfy - Unlock Your Skin’s Potential and Discover Your Glow
 
